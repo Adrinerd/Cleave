@@ -1,0 +1,20 @@
+{
+  "name": "CLEAVE — prototipo",
+  "short_name": "CLEAVE",
+  "description": "Uno corta. Uno elige. Prototipo jugable para dos personas.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "id": "/cleave/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#16110D",
+  "theme_color": "#16110D",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
